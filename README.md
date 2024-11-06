@@ -1,4 +1,6 @@
-## ryhkml
+## Hi there 👋
+Welcome to my GitHub profile!\
+Below is a brief overview of the technologies, tools, and environments i use daily.
 
 ### Language Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,go,bash,nix,lua)](https://skillicons.dev)
