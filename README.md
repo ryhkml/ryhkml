@@ -1,8 +1,7 @@
 ## Hi there 👋
-Welcome to my GitHub profile!\
-Below is a brief overview of the technologies, tools, and environments i use daily.
+Welcome to my GitHub profile!. Below is a brief overview of the technologies, tools, and environments i use daily.
 
-### Language Stack
+### Language & Script Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,bash,nix,lua)](https://skillicons.dev)
 
 ### Tools & Platforms
