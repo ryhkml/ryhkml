@@ -1,8 +1,5 @@
-## Hi there 👋
-Welcome to my GitHub profile!. Below is a brief overview of the technologies, tools, and environments i use daily.
-
 ### Language & Script Stack
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=typescript,nixos,lua,rust,gnubash,fishshell&theme=light)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=typescript,nixos,lua,gnubash,fishshell&theme=light)
 
 ### Frameworks & Databases
 ![My Skills](https://simpleskill.icons.workers.dev/svg?i=angular,hono,sqlite,postgresql&theme=light)
