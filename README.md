@@ -1,5 +1,5 @@
 ### Language & Script Stack
-![Language & Script Stack](https://simpleskill.icons.workers.dev/svg?i=typescript,nixos,lua,gnubash,fishshell&theme=light)
+![Language & Script Stack](https://simpleskill.icons.workers.dev/svg?i=typescript,nixos,lua,gnubash&theme=light)
 
 ### Frameworks & Databases
 ![Frameworks & Databases](https://simpleskill.icons.workers.dev/svg?i=angular,hono,sqlite,postgresql&theme=light)
