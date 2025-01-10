@@ -1,14 +1,11 @@
 ### Language & Script Stack
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=typescript,nixos,lua,gnubash,fishshell&theme=light)
+![Language & Script Stack](https://simpleskill.icons.workers.dev/svg?i=typescript,nixos,lua,gnubash,fishshell&theme=light)
 
 ### Frameworks & Databases
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=angular,hono,sqlite,postgresql&theme=light)
+![Frameworks & Databases](https://simpleskill.icons.workers.dev/svg?i=angular,hono,sqlite,postgresql&theme=light)
 
 ### Tools & Platforms
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=neovim,vault,nodedotjs,bun,podman,ollama,cloudflare,firebase,googlecloud&theme=light)
-
-### Version Control
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github&theme=light)
+![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=git,neovim,vault,nodedotjs,bun,podman,ollama,github,cloudflare,firebase,googlecloud&theme=light)
 
 ### Daily Driver
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=fedora&theme=light)
+![Fedora](https://simpleskill.icons.workers.dev/svg?i=fedora&theme=light)
