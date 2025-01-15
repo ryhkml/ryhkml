@@ -5,7 +5,7 @@
 ![Frameworks & Databases](https://simpleskill.icons.workers.dev/svg?i=angular,hono,sqlite,postgresql&theme=light)
 
 ### Tools & Platforms
-![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=git,neovim,vault,nodedotjs,bun,podman,ollama,github,cloudflare,firebase,googlecloud&theme=light)
+![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=git,neovim,vault,bun,podman,ollama,github,firebase,googlecloud&theme=light)
 
 ### Daily Driver
 ![Fedora](https://simpleskill.icons.workers.dev/svg?i=fedora&theme=light)
