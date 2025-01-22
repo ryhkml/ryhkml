@@ -15,7 +15,7 @@ Text         5 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![Language & Script Stack](https://simpleskill.icons.workers.dev/svg?i=c,typescript,nixos,lua,gnubash&theme=light)
 
 ### Tools & Platforms
-![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=git,neovim,vault,bun,podman,ollama,github,firebase,googlecloud&theme=light)
+![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=neovim,vault,bun,podman,ollama,github,firebase,googlecloud&theme=light)
 
 ### Daily Driver
 ![Fedora](https://simpleskill.icons.workers.dev/svg?i=fedora&theme=light)
