@@ -13,4 +13,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          IGNORED_LANGUAGES: CSS HTML Less JSON Markdown SCSS TeX TOML YAML
+          IGNORED_LANGUAGES: CSS HTML Less JSON Markdown SCSS TeX Text TOML YAML
