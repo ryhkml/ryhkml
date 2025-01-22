@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Language & Script Stack
 ![Language & Script Stack](https://simpleskill.icons.workers.dev/svg?i=c,typescript,nixos,lua,gnubash&theme=light)
 
