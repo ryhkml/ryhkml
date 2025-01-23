@@ -1,4 +1,4 @@
-### Average Dev Metrics
+### Average Language & Script Development Metrics
 <!--START_SECTION:waka-->
 
 ```txt
