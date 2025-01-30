@@ -2,7 +2,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
     name: Waka readme dev metrics
@@ -13,4 +13,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          IGNORED_LANGUAGES: CSS HTML Less JSON Markdown SCSS TeX Text TOML YAML
+          IGNORED_LANGUAGES: conf CSS HTML Less JSON Makefile Markdown SCSS TeX Text TOML YAML
