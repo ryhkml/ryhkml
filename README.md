@@ -12,4 +12,4 @@ Go                 14 hrs 4 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 ### Tools & Platforms
-![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=neovim,vault,bun,sqlite,podman,github,firebase,googlecloud&theme=light)
+![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=neovim,vault,sqlite,podman,github,firebase,googlecloud&theme=light)
