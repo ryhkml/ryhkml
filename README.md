@@ -13,6 +13,3 @@ Go                 14 hrs 4 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### Tools & Platforms
 ![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=neovim,vault,bun,sqlite,podman,github,firebase,googlecloud&theme=light)
-
-### Daily Driver
-![Fedora](https://simpleskill.icons.workers.dev/svg?i=fedora&theme=light)
