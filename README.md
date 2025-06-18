@@ -10,6 +10,3 @@ Nix                59 hrs 49 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-### Tools & Platforms
-![Tools & Platforms](https://simpleskill.icons.workers.dev/svg?i=neovim,vault,sqlite,podman,github,firebase,googlecloud&theme=light)
